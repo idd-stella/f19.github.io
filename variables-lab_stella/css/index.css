@@ -1,0 +1,30 @@
+body {
+  background-color: grey;
+}
+
+.heading {
+  color: gold;
+}
+
+.cart {
+  display: inline-block;
+  min-width: 2.5em;
+  height: 2.5em;
+  /* background-color: lime; */
+  background-image: url('/img/cart.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  text-align: center;
+  font: 700 1em helvetica, sans-serif;
+  line-height: 1.7;
+  text-decoration: none;
+}
+
+.highlight {
+  background-color: greenyellow;
+}
+
+
+/* This is a comment in CSS */
